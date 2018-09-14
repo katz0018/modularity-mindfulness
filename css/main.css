@@ -8,6 +8,11 @@ html {
   border-color: #005e76;
 }
 
+nav a {
+  color: #005e76;
+  border-bottom: 2px solid #8bc9d9;
+}
+
 .btn {
   color: #0084a6;
   border-color: #8bc9d9;
