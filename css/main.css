@@ -1,9 +1,9 @@
 html {
   font-family: 'Noto Sans', sans-serif;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans Japanese', sans-serif;
 }
 
-.btn:hover {
+.btn-ghost:hover {
   background-color: #8bc9d9;
   border-color: #005e76;
 }
@@ -13,7 +13,7 @@ nav a {
   border-bottom: 2px solid #8bc9d9;
 }
 
-.btn {
+.btn-ghost {
   color: #0084a6;
   border-color: #8bc9d9;
 }
