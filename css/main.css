@@ -1,5 +1,5 @@
 html {
-  font-family: 'Noto Sans Japanese', sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
 }
 
 .btn-ghost:hover {
@@ -22,8 +22,10 @@ nav a {
   border-bottom: 2px solid #e2e2e2;
 }
 
-@media screen and (max-width: 608px) {
+@media screen and (min-width: 38em) {
+
   .lefty {
     text-align: left;
   }
+
 }
