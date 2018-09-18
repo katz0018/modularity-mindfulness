@@ -1,5 +1,6 @@
 html {
-  font-family: "Noto Sans Japanese", sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 .btn-ghost:hover {
