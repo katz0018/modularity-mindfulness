@@ -1,10 +1,9 @@
 html {
   font-family: "Noto Sans", sans-serif;
-
 }
 
 .font-ja {
-    font-family: "Noto Sans Japanese", sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
 }
 
 .btn:hover {
@@ -21,8 +20,9 @@ html {
 
 .btn-ghost:hover {
   color: #000;
-  background: none
+  background: none;
 }
+  color: #0084a6;
 
 .btn-ghost {
   color: #005e76;
