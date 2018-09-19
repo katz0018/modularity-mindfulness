@@ -14,14 +14,14 @@ html {
 }
 
 .btn {
-  background-color: #ffff;
+  background: none;
   border-color: #8bc9d9;
   color: #005e76;
 }
 
 .btn-ghost:hover {
   color: #000;
-  background-color: #ffff;
+  background: none
 }
 
 nav a {
