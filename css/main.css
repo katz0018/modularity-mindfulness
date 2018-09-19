@@ -15,18 +15,17 @@ html {
 .btn {
   background: none;
   border-color: #8bc9d9;
-  color: #005e76;
+  color: #0084a6;
 }
 
 .btn-ghost:hover {
   color: #000;
   background: none;
 }
-  color: #0084a6;
 
 .btn-ghost {
   color: #005e76;
-  border-bottom: 2px solid #8bc9d9;
+  border-bottom: 1px solid #8bc9d9;
 }
 
 .border-line {
