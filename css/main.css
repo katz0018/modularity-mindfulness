@@ -25,7 +25,8 @@ html {
 
 .btn-ghost {
   color: #005e76;
-  border-bottom: .5px solid #8bc9d9;
+  border-bottom: 2px solid #8bc9d9;
+  padding-bottom: .3em;
 }
 
 .border-line {
