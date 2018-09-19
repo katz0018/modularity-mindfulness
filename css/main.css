@@ -23,15 +23,11 @@ html {
   color: #000;
   background: none
 }
-
-nav a {
-  color: #005e76;
-  border-bottom: 2px solid #8bc9d9;
-}
+  color: #0084a6;
 
 .btn-ghost {
-  color: #0084a6;
-  border-color: #8bc9d9;
+  color: #005e76;
+  border-bottom: 2px solid #8bc9d9;
 }
 
 .border-line {
